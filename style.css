@@ -1,0 +1,156 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, b, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+h1 {
+	font-size: 200%;
+	font-weight: bolder; 
+}
+
+h2 {
+	font-size: 180%;
+	font-weight: bolder; 
+}
+
+h3 {
+	font-size: 160%;
+	font-weight: bolder; 
+}
+
+h4 {
+	font-size: 140%;
+	font-weight: bolder; 
+}
+
+h5 {
+	font-size: 120%;
+	font-weight: bolder; 
+}
+
+body {
+	margin: 100px;
+}
+
+
+
+/* Classes proprias*/
+
+
+.m-5{
+	margin:5px;
+}
+
+.mt-5{
+	margin-top:5px;
+}
+
+.mb-5{
+	margin-bottom:5px;
+}
+
+.ml-5{
+	margin-left:5px;
+}
+
+.mr-5{
+	margin-right:5px;
+}
+
+.m-10{
+	margin:10px;
+}
+
+.mt-10{
+	margin-top:10px;
+}
+
+.mb-10{
+	margin-bottom:10px;
+}
+
+.ml-10{
+	margin-left:10px;
+}
+
+.mr-10{
+	margin-right:10px;
+}
+
+.m-15{
+	margin:15px;
+}
+
+.mt-15{
+	margin-top:15px;
+}
+
+.mb-15{
+	margin-bottom:15px;
+}
+
+.ml-15{
+	margin-left:15px;
+}
+
+.mr-15{
+	margin-right:15px;
+}
+
+.tecnologias{
+
+}
+
+.tecnologias img {
+	height:50px;
+	width: 50px;
+	margin: 20px;
+}
+
+.wpp{
+	height:24px;
+}
